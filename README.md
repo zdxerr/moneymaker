@@ -1,0 +1,4 @@
+moneymaker
+==========
+
+Stock portfolio manager.
